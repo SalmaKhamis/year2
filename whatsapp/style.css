@@ -1,0 +1,39 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.project{
+    margin: auto;
+}
+.main-text{
+    width: 100%;
+    background-color: hotpink;
+    text-align: center;
+}
+.main-text h1{
+    padding: 20px;
+    font-family: cursive;
+}
+.nav a{
+    text-decoration: none;
+    text-align: left;
+    padding: 20px;
+    margin: 20px;
+}
+.nav{
+    padding: 10px;
+    margin-top: 15px;
+    background-color: black;
+    height: 30px;
+    overflow: hidden;
+}
+.nav a:hover{
+    background-color: blanchedalmond;
+}
+.left-side{
+    padding: 20px;
+}
+.img1 img{
+    width: 50%;
+    height: 50%;
+}
